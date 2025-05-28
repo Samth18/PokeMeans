@@ -1,1 +1,5 @@
-# Dependencias del proyecto
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
