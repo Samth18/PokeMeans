@@ -1,1 +1,1 @@
-# PokeMeans
+# PokeMeans - Clustering de Pokémon con K-Means
