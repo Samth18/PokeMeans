@@ -1,18 +1,18 @@
 import os
 
 def crear_estructura_proyecto():
-    """Crea la estructura de directorios para el proyecto PokeMeans"""
+    """Crea la estructura de directorios con archivos útiles en lugar de .gitkeep"""
     
     # Directorios principales
     directorios = [
-        'data/raw',            # Datos originales (CSV de Pokémon)
-        'data/processed',      # Datos procesados
-        'notebooks',           # Jupyter notebooks de análisis
-        'src',                 # Código fuente Python
-        'src/utils',           # Utilidades compartidas
-        'results/plots',       # Gráficos y visualizaciones
-        'results/tables',      # Tablas de resultados
-        'docs'                 # Documentación adicional
+        'data/raw',
+        'data/processed',
+        'notebooks',
+        'src',
+        'src/utils',
+        'results/plots',
+        'results/tables',
+        'docs'
     ]
     
     # Crear cada directorio
@@ -20,12 +20,20 @@ def crear_estructura_proyecto():
         os.makedirs(directorio, exist_ok=True)
         print(f'Directorio creado: {directorio}')
     
-    # Crear archivos base vacíos
+    # Archivos base con contenido relevante
     archivos_base = {
         'src/main.py': '# Script principal para el análisis K-Means',
         'notebooks/exploracion.ipynb': '# Notebook de análisis exploratorio',
         'README.md': '# PokeMeans - Clustering de Pokémon con K-Means',
-        'requirements.txt': '# Dependencias del proyecto'
+        'requirements.txt': 'pandas\nscikit-learn\nmatplotlib\nseaborn\njupyter',
+        
+        # Archivos más útiles para data/
+        'data/raw/LEEME.md': '# Datos Originales\n\nColocar aquí el archivo pokemon.csv descargado de Kaggle',
+        'data/processed/LEEME.md': '# Datos Procesados\n\nAquí se almacenarán los datasets después del preprocesamiento',
+        
+        # Documentación útil en docs/
+        'docs/metodologia.md': '# Metodología\n\nDescripción del proceso de análisis y clustering',
+        'docs/estructura.md': '# Estructura del Proyecto\n\nExplicación del propósito de cada carpeta'
     }
     
     for archivo, contenido in archivos_base.items():
