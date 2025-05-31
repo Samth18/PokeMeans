@@ -1,4 +1,9 @@
 ### Análisis de Mercado - Propuesta para Pokemon Company 
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+  <img src="./image/lucario.png" alt="Lucario vs Talonflame" style="width: 70hv; max-width: 350px;">
+  <img src="./image/nombrecompleto.png" alt="Univallunos" style="width: 70hv; max-width: 350px;">
+  <img src="./image/ring.png" alt="Ring" style="width: 70hv; max-width: 350px;">
+</div>
 
 #### Modo de combate WWE online
 
@@ -24,11 +29,12 @@ Los clústeres definidos por el sistema WWE representan diferentes **identidades
 
 #### 🔹 1. Figuras de acción y coleccionables
 
-* **Línea “WWE PokéFighters”**:
+* **Línea de figuras “WWE PokéFighters”**:
 
   * *Berserker Blaziken*: postura de combate, efectos de fuego y músculos marcados.
   * *Tank Snorlax*: figura pesada con armadura WWE estilo “sumo”.
   * *Versatile Lucario*: figura articulada con doble estilo (puede adoptar forma ofensiva o defensiva).
+  * *Ring de PokePelea*: ring de pelea estilo WWE personalizado con tematica de gymnasio pokemon
   * Edición limitada *Legendary Deluxe*: figuras con luces LED, sonidos personalizados y empaque temático.
 
 #### 🔹 2. Stickers, posters y tarjetas por facción
@@ -52,12 +58,12 @@ Los clústeres definidos por el sistema WWE representan diferentes **identidades
 
 Una serie animada tipo torneo mundial que dramatiza los combates entre facciones WWE de Pokémon. Inspirada en animes de deportes y lucha libre, con enfoque narrativo y estilo de presentación tipo *WWE SmackDown*.
 
-* **Formato**: 10 episodios por temporada (8 combates + 2 especiales).
+* **Formato**: 10 episodios por temporada (8 combates + 2 especiales (Centrados en los cameos y lore con luchadores reales)).
 * **Narrador tipo WWE**: frases épicas, dramatización de combates, comentarios técnicos y cómicos.
 * **Estilo visual**: arenas iluminadas, presentaciones por equipo, movimientos especiales coreografiados.
 * **Narrativa**: Rivalidades entre clústeres, traiciones, alianzas, redención de Pokémon subestimados.
 
-#### 🗳️ 2. Eventos interactivos para la comunidad
+#### Eventos interactivos para la comunidad
 
 La comunidad de fans podría participar activamente en eventos organizados por Pokémon Company:
 
@@ -79,4 +85,7 @@ La comunidad de fans podría participar activamente en eventos organizados por P
   * Crear la biografía de combate de tu equipo (estilo wrestler profile).
   * Los mejores diseños podrían convertirse en productos oficiales o material canónico de eventos.
 
+* **Colaboraciones**:
+  * Cameos de luchadores reales en el videojuego y la serie como entrenadores pokemon. 
+  * Merchandaising de las mismas colaboraciones.
 ---
