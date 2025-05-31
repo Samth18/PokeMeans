@@ -1,0 +1,7 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,attack_index,cluster,cluster_name
+487,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,True,-40,3,Balanced Legendary
+144,Articuno,Ice,Flying,580,90,85,100,95,125,85,1,True,-45,3,Balanced Legendary
+718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,True,-35,3,Balanced Legendary
+245,Suicune,Water,,580,100,75,115,90,115,85,2,True,-65,5,Defensive Legendary
+485,Heatran,Fire,Steel,600,91,90,106,130,106,77,4,True,8,3,Balanced Legendary
+720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True,70,4,Aggressive Legendary

@@ -7,11 +7,8 @@ def crear_estructura_proyecto():
     directorios = [
         'data/raw',
         'data/processed',
-        'notebooks',
         'src',
         'src/utils',
-        'results/plots',
-        'results/tables',
         'docs'
     ]
     
